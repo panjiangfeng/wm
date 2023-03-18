@@ -7,7 +7,6 @@
 # BlueJ files
 *.ctxt
 #用户设置
-/.idea/
 /target/**
 
 
