@@ -6,5 +6,5 @@ package vip.paolu.wm.common;
  * Date: 2023-03-18-16:43
  */
 public class Name {
-    private static String name;
+    public static final String DISH_KEY = "dish_";
 }
